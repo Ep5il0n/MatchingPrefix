@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/matchingprefixes_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/TrieNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/TrieNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/boot$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/boot$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/PrefixMatcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/PrefixMatcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/PrefixMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/PrefixMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/boot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/boot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/Trie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/Trie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	matchingprefixes/boot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/matchingprefixes/boot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sample_prefixes.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shoumik/MatchingPrefixesFinal/MatchingPrefixesProject/target/scala-2.13/classes/sample_prefixes.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
